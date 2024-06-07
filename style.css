@@ -56,7 +56,10 @@ body {
 }
 a.facebook{
     color: #fff;
-	a.facebook .facebook-icon{
+    background-color: #4267b2;
+}
+	
+a.facebook .facebook-icon{
     height: 28px;
     width: 28px;
     color: #0171d3;
