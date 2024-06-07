@@ -154,7 +154,7 @@ html {
 .signup-form button {
   width: 16rem;
   height: 5rem;
-  background-color: #247DDC;
+  background-color: transparent;
   border: none;
   border-radius: 3rem;
   text-transform: uppercase;
