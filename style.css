@@ -25,5 +25,19 @@ body {
     font-weight: 400;
     color: #232836;
 }
+.form a{
+    color: #0171d3;
+    text-decoration: none;
+}
+.form-content a:hover{
+    text-decoration: underline;
+}
+.line{
+    position: relative;
+    height: 1px;
+    width: 100%;
+    margin: 36px 0;
+    background-color: #d4d4d4;
+}
 
   
